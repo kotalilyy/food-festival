@@ -10,12 +10,17 @@ I contributed to optimizing an exhisting Food Festival app by minifying assets, 
 
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
+  - [Live Link](https://kotalilyy.github.io/food-festival/)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
   - [Contributing](#contributing)
   - [Questions](#questions)
+
+## Live Link
+
+[Live Link](https://kotalilyy.github.io/food-festival/)
 
 ## Installation
 
