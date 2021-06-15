@@ -10,12 +10,18 @@ I contributed to optimizing an exhisting Food Festival app by minifying assets, 
 
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
+  - [Live Link](https://kotalilyy.github.io/food-festival/)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
   - [Contributing](#contributing)
+  - [Error Handling](#error-handling)
   - [Questions](#questions)
+
+## Live Link
+
+[Live Link](https://kotalilyy.github.io/food-festival/)
 
 ## Installation
 
@@ -47,6 +53,10 @@ npm install --save-dev webpack-cli
 
 [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
+[JavaScript Minifier](https://javascript-minifier.com/)
+
+[Optimizilla](https://imagecompressor.com/)
+
 ## Credits
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
@@ -70,6 +80,16 @@ npm install --save-dev webpack-cli
 ## Contributing 
 
 Create a pull request to contribute!
+
+## Error Handling
+
+![error](https://user-images.githubusercontent.com/77229281/122117746-d5549c00-cdec-11eb-99b4-67c546558db6.jpg)
+
+Error Solved 
+
+
+![errorhandled](https://user-images.githubusercontent.com/77229281/122117843-f6b58800-cdec-11eb-97e8-70e6d2b5d042.jpg)
+
 
 ## Questions
 
