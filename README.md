@@ -52,6 +52,10 @@ npm install --save-dev webpack-cli
 
 [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
+[JavaScript Minifier](https://javascript-minifier.com/)
+
+[Optimizilla](https://imagecompressor.com/)
+
 ## Credits
 
 [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
